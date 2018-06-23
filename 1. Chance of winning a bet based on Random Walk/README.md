@@ -11,4 +11,4 @@ Details of the Rule ans steps:
 7. Visualized the distribution of the 500 end points using histograms. 
 8. Finally, I divided the result with 500 to get the chance of 78.4% that the person will reach on the step 60 or more of the empire state building.
 
-You can find the each visualization related to this project in the images uploaded.Mporeover, the word document has the all visualizations with description.  
+You can find the each visualization related to this project in the images uploaded.Moreover, the word document has the all visualizations with description.  
