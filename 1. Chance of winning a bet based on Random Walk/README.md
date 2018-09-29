@@ -10,4 +10,5 @@ Details of the Rule ans steps:
 6. To find the end point of the 500 simulations, I changed the list of lists to an array, transposed it and calculated the number of time the end points has value more than or equal to 60. 
 7. Visualized the distribution of the 500 end points using histograms. 
 8. Finally, I divided the result with 500 to get the chance of 78.4% that the person will reach on the step 60 or more of the empire state building.
-You can find the each visualization related to this project in the images uploaded.Mporeover, the word document has the all visualizations with description.  
+
+The visualizations related to this project are in the images uploaded. Moreover, the word document has the all visualizations with description.  
