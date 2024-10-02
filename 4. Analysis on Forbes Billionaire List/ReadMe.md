@@ -1,0 +1,1 @@
+This is an analysis of the Forbes World's Billionaire list.
